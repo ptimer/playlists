@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "title": "MP3.Free.net",
+    "type": "PLAYLIST",
+    "coverImg": "image1",
+    "mediaIds": [3,13,14]
+  },
+  {
+    "id": 2,
+    "title": "Telegram",
+    "type": "PLAYLIST",
+    "coverImg": "image6",
+    "mediaIds": [2,3,12]
+  },
+  {
+    "id": 3,
+    "title": "Voice record",
+    "type": "PLAYLIST",
+    "coverImg": "image7",
+    "mediaIds": [4,5,6,7,8,9,10,11,13,14]
+  },
+  {
+    "id": 4,
+    "title": "Download",
+    "type": "PLAYLIST",
+    "coverImg": "image2",
+    "mediaIds": [1,2,3,4,5,6,7,8,9,10,11,12]
+  },
+  {
+    "id": 5,
+    "title": "Playlist5",
+    "type": "PLAYLIST",
+    "coverImg": "image1"
+  },
+  {
+    "id": 6,
+    "title": "Playlist6",
+    "type": "PLAYLIST",
+    "coverImg": "image1"
+  },
+  {
+    "id": 7,
+    "title": "Playlist7",
+    "type": "PLAYLIST",
+    "coverImg": "image1"
+  }
+]
+
